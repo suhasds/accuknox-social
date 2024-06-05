@@ -1,0 +1,13 @@
+Django==4.1.7
+django-extensions==3.2.1
+djangorestframework==3.14.0
+django-cleanup==7.0.0
+django-widget-tweaks==1.4.12
+psycopg2-binary==2.9.9
+Pillow==9.5.0
+tweepy==4.13.0
+channels==4.0.0
+channels-redis==4.1.0
+django-silk==5.0.3
+django-cors-headers==3.14.0
+daphne==4.1.2
